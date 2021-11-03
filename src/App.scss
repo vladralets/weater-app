@@ -1,0 +1,25 @@
+.app {
+  width: 100%;
+}
+
+.header {
+  max-width: 1440px;
+  min-width: 576px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px auto 0;
+}
+
+@media (max-width: 1200px) {
+  .header {
+    max-width: 960px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .header {
+    max-width: 960px;
+    min-width: 576px;
+  }
+}

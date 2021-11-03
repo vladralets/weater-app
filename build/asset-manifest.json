@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.a7a27a25.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.84ac82f1.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.84ac82f1.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.4aa1d305.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.4aa1d305.js.map",
+    "static/js/2.eef586f2.chunk.js": "/react-gh-pages/static/js/2.eef586f2.chunk.js",
+    "static/js/2.eef586f2.chunk.js.map": "/react-gh-pages/static/js/2.eef586f2.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.a7a27a25.chunk.css.map": "/react-gh-pages/static/css/main.a7a27a25.chunk.css.map",
+    "static/js/2.eef586f2.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.eef586f2.chunk.js.LICENSE.txt",
+    "static/media/CitySearch.module.scss": "/react-gh-pages/static/media/search_icon.9cec04a7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aa1d305.js",
+    "static/js/2.eef586f2.chunk.js",
+    "static/css/main.a7a27a25.chunk.css",
+    "static/js/main.84ac82f1.chunk.js"
+  ]
+}

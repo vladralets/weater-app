@@ -1,0 +1,35 @@
+.wrapper {
+  margin: 50px auto;
+  max-width: 1440px;
+  align-self: flex-start;
+  background-color:#F3F5F8;
+  border-radius: 5px;
+}
+
+.title {
+  font-weight: bold;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.queries {
+  display: flex;
+  justify-content: flex-start;
+  width: 60vw;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+
+.queryItem {
+  list-style: none;
+  margin-right: 30px;
+}
+
+.queryBtn {
+  background: none;
+  color: #EC6E4C;
+  border: none;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+}
